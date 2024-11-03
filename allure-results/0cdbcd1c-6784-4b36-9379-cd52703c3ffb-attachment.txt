@@ -1,0 +1,10 @@
+{
+    "bugId": "e6fe242b-fe13-4671-90c5-34787c4e7d48",
+    "createdBy": "Joseph Wang",
+    "createdOn": "2024-11-03T12:41:46.6319803",
+    "updatedOn": "2024-11-03T12:41:47.5721304",
+    "priority": 1,
+    "severity": "Critical",
+    "title": "Homepage hangs",
+    "completed": false
+}

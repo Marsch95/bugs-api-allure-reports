@@ -1,0 +1,4 @@
+{
+    "message": "Bug deleted",
+    "bug_id": "aa75d213-dfca-44e0-84d2-64eb45c351c2"
+}

@@ -1,0 +1,10 @@
+{
+    "bugId": "761f6d42-711a-49bc-ba13-71802f085fc2",
+    "createdBy": "Norah Jones",
+    "createdOn": "2024-11-03T12:50:45.9640586",
+    "updatedOn": "2024-11-03T12:50:45.9640586",
+    "priority": 0,
+    "severity": "Critical",
+    "title": "Home page does not load",
+    "completed": false
+}
